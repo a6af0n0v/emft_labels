@@ -1,2 +1,2 @@
 pylibdmtx
-PIL
+Pillow
