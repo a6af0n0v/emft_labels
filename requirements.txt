@@ -1,2 +1,3 @@
 pylibdmtx
-Pillow
+Pillow==7.2.0
+PyQt5==14.0
