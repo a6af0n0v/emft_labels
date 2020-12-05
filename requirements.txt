@@ -1,3 +1,4 @@
 pylibdmtx
 Pillow==7.2.0
 PyQt5==14.0
+PyQtWebEngine==5.12
