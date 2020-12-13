@@ -294,6 +294,7 @@ def showPreferences():
             self.resize(600,240)
             layout = QHBoxLayout()
             preview = Preview(self)
+            #Antonio has a problem with the width of Preview
             form = QFormLayout()
             self.widthSB = QSpinBox()
             self.heightSB = QSpinBox()
