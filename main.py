@@ -3,7 +3,7 @@
 # User can change basic features of the layout/labels in the preferences dialog
 # User preferences are persisted between sessions
 # Denis Agafonov 2020/12/05
-
+#2020/12/15
 import pylibdmtx.pylibdmtx as dmtx
 import shelve, os
 from PIL import Image
